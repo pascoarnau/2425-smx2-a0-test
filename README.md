@@ -9,7 +9,7 @@
 ###### H6 
 
 Este texto está en **negrita** y este también está en __negrita__
-Este texto está en *cursiva* 
+Este texto está en *cursiva* y este también está en _cursiva_
 
 **palabra 1 _palabra2_**
 
@@ -17,8 +17,8 @@ Este texto está en *cursiva*
 	1. Primer subelemento
 	2. Segundo subelemento
 2. Segundo elemento de la lista
-	*Sublista 2 Elemento 1
-	*Sublista 2 Elemento 2
+	* Sublista 2 Elemento 1
+	* Sublista 2 Elemento 2
 
 3. Tercer elemento de la lista
 
