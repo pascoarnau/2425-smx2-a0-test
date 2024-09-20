@@ -1,3 +1,9 @@
 # 2425-smx2-a0-test
-Primer repositorio en SMX2 de ejemplo de uso de la aplicación.
-Porque no se acaba ya la puta guerra de Ucrania? Rusia siempre va a por ella.
+
+
+# Encabezado 1
+## Encabezado 2 
+### Encabezado 3
+#### H4
+##### H5
+###### H6 
