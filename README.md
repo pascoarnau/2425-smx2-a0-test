@@ -7,3 +7,7 @@
 #### H4
 ##### H5
 ###### H6 
+
+Este texto está en **negrita** y este también está en __negrita__
+Este texto está en *cursiva* 
+
