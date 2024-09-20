@@ -29,6 +29,6 @@ Este texto está en *cursiva* y este también está en _cursiva_
 
 [Enlace a la web del cole](https://www.fje.edu/ca/fjesuites-bellvitge "Texto opcional")
 
-![Leon](https://github.com/pascoarnau/2425-smx2-a0-test/blob/main/leon.jpg "Titulo opcional de la imagen")
+![leon](https://github.com/pascoarnau/2425-smx2-a0-test/blob/main/leon.jpg "Titulo opcional de la imagen")
 
 
